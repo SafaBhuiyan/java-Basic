@@ -14,3 +14,4 @@ local.properties
 .editorconfig
 .loadpath
 .recommenders
+/target/
